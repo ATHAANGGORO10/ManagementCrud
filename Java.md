@@ -1,0 +1,1 @@
+Saya membuat suatu program yang bisa dipakai untuk absensi siswa hanya saja kami memiliki sedikit masalah pada bagian search. Ketika mencari nama ID itu tidak bisa dikarenakan saya tidak membuat ID bisa di cari
